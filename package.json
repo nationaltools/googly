@@ -7,7 +7,7 @@
 		"build": "npx tailwindcss -i ./src/assets/styles/tailwind.css -o ./src/assets/styles/styles.min.css --minify && gulp build:production"
 	},
 	"keywords": [
-		"elcreative",
+		"teachwiki",
 		"blogger",
 		"blogspot",
 		"template"
