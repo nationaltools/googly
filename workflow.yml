@@ -15,6 +15,6 @@ jobs:
                   registry-url: https://registry.npmjs.org
             - name: publish
               run: npm publish --access public
-              working-directory: googly
+              working-directory: dist
               env:
                   NODE_AUTH_TOKEN: ${{secrets.TEACHWIKI_AUTH}}
