@@ -1,5 +1,5 @@
 {
-	"name": "bloggeria",
+	"name": "googly",
 	"version": "2.0.0",
 	"description": "No Description Found!",
 	"main": "gulpfile.js",
@@ -13,19 +13,19 @@
 		"template"
 	],
 	"author": {
-		"name": "Yasya El Hakim",
-		"email": "yasyaelhakim@gmail.com",
-		"url": "https://www.elcreativeacademy.com"
+		"name": "Sajid Ali",
+		"email": "sajidali0858687@gmail.com",
+		"url": "https://teachwiki.blogspot.com"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/elhakimyasya/Bloggeria.git"
+		"url": "git+https://github.com/nationaltools/googly.git"
 	},
 	"bugs": {
-		"url": "https://github.com/elhakimyasya/Bloggeria/issues"
+		"url": "https://github.com/nationaltools/googly/issues"
 	},
-	"homepage": "https://github.com/elhakimyasya/Bloggeria#readme",
+	"homepage": "https://github.com/nationaltools/googly#readme",
 	"devDependencies": {
 		"@babel/preset-env": "^7.20.2",
 		"@tailwindcss/line-clamp": "^0.4.2",
@@ -57,7 +57,7 @@
 		"webpack-stream": "^7.0.0"
 	},
 	"names": "Theme Name",
-	"demo": "https://www.elcreativeacademy.com/",
+	"demo": "https://teachwiki.blogspot.com/",
 	"releasedDate": "February 27, 2023 - 05:42 AM",
 	"config": {
 		"cdataStart": "<![CDATA[",
